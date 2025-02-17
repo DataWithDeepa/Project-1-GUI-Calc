@@ -4,4 +4,5 @@ A simple Python calculator with a GUI, supporting basic math and comparisons. ðŸ
 
 
 
-https://www.canva.com/design/DAGfQBaJoH4/zc68kub38DfSxPgwyZX5Tw/view?utm_content=DAGfQBaJoH4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5107f7e5eb
+https://1drv.ms/p/c/434d87f7cd9dc679/EW-LV-Lx4xVIih1dbzO3ewYBGx9jONgz0GeqKL4XZpAVTQ?e=cSxDCv
+
